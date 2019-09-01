@@ -18,21 +18,6 @@
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ## [SPX prediction]()
 
 ![SPX prediction.jpg](https://github.com/alik604/Finance-Journal/blob/master/EWH%20prediction.JPG)
