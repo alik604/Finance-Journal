@@ -8,7 +8,7 @@
 
 1. [SPX prediction](#SPX prediction)
 2. [SPX prediction2](#SPX prediction2)
-3. [EWH prediction](EWH prediction)
+3. [EWH prediction](#EWH prediction)
 4. [Fourth Example](#fourth-example)
 
 
