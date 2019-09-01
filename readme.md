@@ -1,6 +1,6 @@
 # Finance Journal 
 
-> lordi ipsum..
+> A place where I write down my finance related ideas 
 
 ## test 
 
@@ -15,7 +15,11 @@
 
 ![SPX prediction.jpg](https://github.com/alik604/Finance-Journal/blob/master/EWH%20prediction.JPG)
 
+
+
 ![SPX prediction2.jpg](https://github.com/alik604/Finance-Journal/blob/master/SPX%20prediction.jpg)
+
+
 
 ![EWH prediction.jpg](https://github.com/alik604/Finance-Journal/blob/master/SPX%20prediction2.jpg)
 
