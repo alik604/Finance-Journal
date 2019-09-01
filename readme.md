@@ -13,9 +13,9 @@
 
 
 
-![SPX prediction .JPG](/SPX prediction .JPG)
+![SPX prediction .JPG](/SPX prediction.JPG)
 
-![SPX prediction 2 .JPG](/SPX prediction 2 .JPG)
+![SPX prediction 2 .JPG](/SPX prediction 2.JPG)
 
 ![EWH prediction.JPG](/EWH prediction.JPG)
 
