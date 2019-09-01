@@ -13,7 +13,7 @@
 
 
 
-![SPX prediction.jpg]({{site.baseurl}}/SPX prediction.jpg)
+![SPX prediction.jpg](/SPX prediction.jpg)
 
 ![SPX prediction2.jpg]({{site.baseurl}}/SPX prediction2.jpg)
 
