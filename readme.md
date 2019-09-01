@@ -17,7 +17,7 @@
 
 ![SPX prediction2.jpg]({{https://github.com/alik604/}}/SPX prediction2.jpg)
 
-![EWH prediction.jpg]({{site.baseurl}}/EWH prediction.jpg)
+![EWH prediction.jpg](https://github.com/alik604//EWH prediction.jpg)
 
 
 
