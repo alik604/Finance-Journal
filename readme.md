@@ -6,43 +6,47 @@
 
 
 
-1. [Example](#example)
-2. [Example2](#example2)
-3. [Third Example](#third-example)
+1. [SPX prediction](#SPX prediction)
+2. [SPX prediction2](#SPX prediction2)
+3. [EWH prediction](#EWH prediction)
 4. [Fourth Example](#fourth-example)
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## SPX prediction
+
 ![SPX prediction.jpg](https://github.com/alik604/Finance-Journal/blob/master/EWH%20prediction.JPG)
 
+## SPX prediction2
 
 
 ![SPX prediction2.jpg](https://github.com/alik604/Finance-Journal/blob/master/SPX%20prediction.jpg)
 
+## EWH prediction
 
 
 ![EWH prediction.jpg](https://github.com/alik604/Finance-Journal/blob/master/SPX%20prediction2.jpg)
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-## Example
-## Example2
-## Third Example
-## [Fourth Example](http://www.fourthexample.com)
+## [Fourth Example]()
