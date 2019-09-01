@@ -15,9 +15,9 @@
 
 ![SPX prediction.jpg](https://github.com/alik604/Finance-Journal/blob/master/EWH%20prediction.JPG)
 
-![SPX prediction2.jpg]({{https://github.com/alik604/}}/SPX prediction2.jpg)
+![SPX prediction2.jpg](https://github.com/alik604/SPX prediction2.jpg)
 
-![EWH prediction.jpg](https://github.com/alik604//EWH prediction.jpg)
+![EWH prediction.jpg](https://github.com/alik604/EWH prediction.jpg)
 
 
 
