@@ -13,12 +13,11 @@
 
 
 
-![SPX prediction .JPG](/SPX prediction.JPG)
+![SPX prediction.jpg]({{site.baseurl}}/SPX prediction.jpg)
 
-![SPX prediction 2 .JPG](/SPX prediction 2.JPG)
+![SPX prediction2.jpg]({{site.baseurl}}/SPX prediction2.jpg)
 
-![EWH prediction.JPG](/EWH prediction.JPG)
-
+![EWH prediction.jpg]({{site.baseurl}}/EWH prediction.jpg)
 
 
 
